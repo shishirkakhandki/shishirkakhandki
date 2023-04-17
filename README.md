@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**shishirkakhandki/shishirkakhandki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hi there, and welcome to my special profile.
 
 👨🏾‍🦱 My name is Shishir S. Kakhandki, male.
