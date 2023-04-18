@@ -12,7 +12,7 @@ Hi there, and welcome to my special profile.
 
 🌱 I am currently learning ethereum scaling and smart contract security, auditing. 
 
-⚡ Fun fact: a huge cricket buff who also loves reading philosophy and working out in his free time.
+⚡ Fun fact: a huge cricket buff who also loves reading philosophy and working out in my free time.
 
 👯 I am looking to collaborate on a freelance, fulltime opportunity in a blockchain specific company. 
 
