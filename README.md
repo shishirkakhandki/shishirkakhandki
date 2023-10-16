@@ -1,6 +1,6 @@
 Hi there, and welcome to my special profile.
 
-👨🏾‍🦱 My name is Shishir S. Kakhandki, male.
+👨🏾‍🦱 My name is Shishir.
 
 🤔 I am actively looking for solidity smart contract engineer roles. 
 
